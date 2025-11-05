@@ -1,0 +1,21 @@
+CMD: c:\Users\xxdew\AppData\Local\Programs\Python\Python311\python.exe C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога\step04b_validate_psf.py
+CWD: C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога
+
+λ=595 nm: валидация выполнена (pupil from phase_gs) → out\validate\595nm
+λ=611 nm: валидация выполнена (pupil from phase_gs) → out\validate\611nm
+λ=625 nm: валидация выполнена (pupil from phase_gs) → out\validate\625nm
+λ=647 nm: валидация выполнена (pupil from phase_gs) → out\validate\647nm
+λ=666 nm: валидация выполнена (pupil from phase_gs) → out\validate\666nm
+λ=684 nm: валидация выполнена (pupil from phase_gs) → out\validate\684nm
+λ=700 nm: валидация выполнена (pupil from phase_gs) → out\validate\700nm
+λ=718 nm: валидация выполнена (pupil from phase_gs) → out\validate\718nm
+λ=736 nm: валидация выполнена (pupil from phase_gs) → out\validate\736nm
+λ=755 nm: валидация выполнена (pupil from phase_gs) → out\validate\755nm
+λ=771 nm: валидация выполнена (pupil from phase_gs) → out\validate\771nm
+λ=787 nm: валидация выполнена (pupil from phase_gs) → out\validate\787nm
+λ=803 nm: валидация выполнена (pupil from phase_gs) → out\validate\803nm
+λ=819 nm: валидация выполнена (pupil from phase_gs) → out\validate\819nm
+λ=834 nm: валидация выполнена (pupil from phase_gs) → out\validate\834nm
+λ=850 nm: валидация выполнена (pupil from phase_gs) → out\validate\850nm
+
+[exit] returncode=0

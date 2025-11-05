@@ -1,0 +1,21 @@
+CMD: c:\Users\xxdew\AppData\Local\Programs\Python\Python311\python.exe C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога\step02b_register_stacks.py
+CWD: C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога
+
+λ=595 nm: aligned → out\clean_aligned\595nm  |  tilt≈26.62°  (|d(x,y)/dz|·DX=0.501 µm/µm)
+λ=611 nm: aligned → out\clean_aligned\611nm  |  tilt≈35.33°  (|d(x,y)/dz|·DX=0.709 µm/µm)
+λ=625 nm: aligned → out\clean_aligned\625nm  |  tilt≈25.20°  (|d(x,y)/dz|·DX=0.471 µm/µm)
+λ=647 nm: aligned → out\clean_aligned\647nm  |  tilt≈27.34°  (|d(x,y)/dz|·DX=0.517 µm/µm)
+λ=666 nm: aligned → out\clean_aligned\666nm  |  tilt≈4.56°  (|d(x,y)/dz|·DX=0.080 µm/µm)
+λ=684 nm: aligned → out\clean_aligned\684nm  |  tilt≈26.21°  (|d(x,y)/dz|·DX=0.492 µm/µm)
+λ=700 nm: aligned → out\clean_aligned\700nm  |  tilt≈19.95°  (|d(x,y)/dz|·DX=0.363 µm/µm)
+λ=718 nm: aligned → out\clean_aligned\718nm  |  tilt≈13.84°  (|d(x,y)/dz|·DX=0.246 µm/µm)
+λ=736 nm: aligned → out\clean_aligned\736nm  |  tilt≈5.79°  (|d(x,y)/dz|·DX=0.101 µm/µm)
+λ=755 nm: aligned → out\clean_aligned\755nm  |  tilt≈9.77°  (|d(x,y)/dz|·DX=0.172 µm/µm)
+λ=771 nm: aligned → out\clean_aligned\771nm  |  tilt≈18.01°  (|d(x,y)/dz|·DX=0.325 µm/µm)
+λ=787 nm: aligned → out\clean_aligned\787nm  |  tilt≈6.24°  (|d(x,y)/dz|·DX=0.109 µm/µm)
+λ=803 nm: aligned → out\clean_aligned\803nm  |  tilt≈17.73°  (|d(x,y)/dz|·DX=0.320 µm/µm)
+λ=819 nm: aligned → out\clean_aligned\819nm  |  tilt≈3.66°  (|d(x,y)/dz|·DX=0.064 µm/µm)
+λ=834 nm: aligned → out\clean_aligned\834nm  |  tilt≈21.36°  (|d(x,y)/dz|·DX=0.391 µm/µm)
+λ=850 nm: aligned → out\clean_aligned\850nm  |  tilt≈8.32°  (|d(x,y)/dz|·DX=0.146 µm/µm)
+
+[exit] returncode=0

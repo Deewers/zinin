@@ -1,0 +1,22 @@
+CMD: c:\Users\xxdew\AppData\Local\Programs\Python\Python311\python.exe C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога\step04c_refocus_to_Z0.py
+CWD: C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога
+
+Целевая плоскость Z0 = -10.000 μm
+λ=595 nm (phase_gs): перенесено на ΔZ=+70.00 μm → out\refocus\phase_gs\595nm
+λ=611 nm (phase_gs): перенесено на ΔZ=+10.00 μm → out\refocus\phase_gs\611nm
+λ=625 nm (phase_gs): перенесено на ΔZ=+10.00 μm → out\refocus\phase_gs\625nm
+λ=647 nm (phase_gs): перенесено на ΔZ=+10.00 μm → out\refocus\phase_gs\647nm
+λ=666 nm (phase_gs): перенесено на ΔZ=+0.00 μm → out\refocus\phase_gs\666nm
+λ=684 nm (phase_gs): перенесено на ΔZ=+0.00 μm → out\refocus\phase_gs\684nm
+λ=700 nm (phase_gs): перенесено на ΔZ=+0.00 μm → out\refocus\phase_gs\700nm
+λ=718 nm (phase_gs): перенесено на ΔZ=+0.00 μm → out\refocus\phase_gs\718nm
+λ=736 nm (phase_gs): перенесено на ΔZ=+0.00 μm → out\refocus\phase_gs\736nm
+λ=755 nm (phase_gs): перенесено на ΔZ=+0.00 μm → out\refocus\phase_gs\755nm
+λ=771 nm (phase_gs): перенесено на ΔZ=-30.00 μm → out\refocus\phase_gs\771nm
+λ=787 nm (phase_gs): перенесено на ΔZ=-30.00 μm → out\refocus\phase_gs\787nm
+λ=803 nm (phase_gs): перенесено на ΔZ=-30.00 μm → out\refocus\phase_gs\803nm
+λ=819 nm (phase_gs): перенесено на ΔZ=-30.00 μm → out\refocus\phase_gs\819nm
+λ=834 nm (phase_gs): перенесено на ΔZ=-10.00 μm → out\refocus\phase_gs\834nm
+λ=850 nm (phase_gs): перенесено на ΔZ=-30.00 μm → out\refocus\phase_gs\850nm
+
+[exit] returncode=0

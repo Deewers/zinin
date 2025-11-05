@@ -1,0 +1,23 @@
+CMD: c:\Users\xxdew\AppData\Local\Programs\Python\Python311\python.exe C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога\step02c_simulate_stack_from_best.py
+CWD: C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога
+
+C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога\step02c_simulate_stack_from_best.py:90: RuntimeWarning: invalid value encountered in sqrt
+  amp0 = np.sqrt(amp0)
+λ=595 nm → out/sim/595nm  (frames=21, center idx=10)
+λ=611 nm → out/sim/611nm  (frames=21, center idx=10)
+λ=625 nm → out/sim/625nm  (frames=21, center idx=10)
+λ=647 nm → out/sim/647nm  (frames=21, center idx=10)
+λ=666 nm → out/sim/666nm  (frames=21, center idx=10)
+λ=684 nm → out/sim/684nm  (frames=21, center idx=10)
+λ=700 nm → out/sim/700nm  (frames=21, center idx=10)
+λ=718 nm → out/sim/718nm  (frames=21, center idx=10)
+λ=736 nm → out/sim/736nm  (frames=21, center idx=10)
+λ=755 nm → out/sim/755nm  (frames=21, center idx=10)
+λ=771 nm → out/sim/771nm  (frames=21, center idx=10)
+λ=787 nm → out/sim/787nm  (frames=21, center idx=10)
+λ=803 nm → out/sim/803nm  (frames=21, center idx=10)
+λ=819 nm → out/sim/819nm  (frames=21, center idx=10)
+λ=834 nm → out/sim/834nm  (frames=21, center idx=10)
+λ=850 nm → out/sim/850nm  (frames=21, center idx=10)
+
+[exit] returncode=0

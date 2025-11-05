@@ -1,0 +1,21 @@
+CMD: c:\Users\xxdew\AppData\Local\Programs\Python\Python311\python.exe C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога\step02_preprocess.py
+CWD: C:\Users\xxdew\OneDrive\Desktop\научка\pupil прога
+
+λ=595 nm: clean stack → out\clean\595nm (best idx=7, z=-80.00 μm)
+λ=611 nm: clean stack → out\clean\611nm (best idx=19, z=-20.00 μm)
+λ=625 nm: clean stack → out\clean\625nm (best idx=19, z=-20.00 μm)
+λ=647 nm: clean stack → out\clean\647nm (best idx=19, z=-20.00 μm)
+λ=666 nm: clean stack → out\clean\666nm (best idx=20, z=-10.00 μm)
+λ=684 nm: clean stack → out\clean\684nm (best idx=20, z=-10.00 μm)
+λ=700 nm: clean stack → out\clean\700nm (best idx=20, z=-10.00 μm)
+λ=718 nm: clean stack → out\clean\718nm (best idx=20, z=-10.00 μm)
+λ=736 nm: clean stack → out\clean\736nm (best idx=20, z=-10.00 μm)
+λ=755 nm: clean stack → out\clean\755nm (best idx=20, z=-10.00 μm)
+λ=771 nm: clean stack → out\clean\771nm (best idx=26, z=20.00 μm)
+λ=787 nm: clean stack → out\clean\787nm (best idx=26, z=20.00 μm)
+λ=803 nm: clean stack → out\clean\803nm (best idx=26, z=20.00 μm)
+λ=819 nm: clean stack → out\clean\819nm (best idx=26, z=20.00 μm)
+λ=834 nm: clean stack → out\clean\834nm (best idx=22, z=0.00 μm)
+λ=850 nm: clean stack → out\clean\850nm (best idx=26, z=20.00 μm)
+
+[exit] returncode=0
